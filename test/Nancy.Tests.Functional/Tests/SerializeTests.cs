@@ -1,4 +1,4 @@
-﻿namespace Nancy.Tests.Functional.Tests
+﻿﻿namespace Nancy.Tests.Functional.Tests
 {
     using System;
     using System.Threading.Tasks;
